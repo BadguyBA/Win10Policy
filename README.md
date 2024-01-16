@@ -7,8 +7,7 @@ In order to utilize this PowerShell script within your environment, make sure th
 ```Powershell
 set-executionpolicy remotesigned
 ```
-  Once enabled, open up an Administrator powershell window, and change the directory to where you have your script (reccomended to be Desktop)
-  ![image](https://github.com/BadguyBA/Win10Policy/assets/156610666/fb724b0e-6e1f-4de1-b091-410077cd56ca)
-
+Once enabled, open up an Administrator powershell window, and change the directory to where you have your script (reccomended to be Desktop)
+  ![image](https://github.com/BadguyBA/Win10Policy/assets/156610666/a11f903d-e422-48d2-9732-2cfd14bfb55d)
 
 ## Useage:
