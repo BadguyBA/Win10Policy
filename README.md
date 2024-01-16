@@ -1,2 +1,2 @@
-# Win10Policy
-Policy editor and general script for Cybersecurity (competition) 
+### Win10Policy
+# Visual GUI built through PowerShell. Meant for competitive and professional use.
